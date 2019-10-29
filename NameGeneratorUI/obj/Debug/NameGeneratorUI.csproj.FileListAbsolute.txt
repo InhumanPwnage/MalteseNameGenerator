@@ -1,0 +1,10 @@
+c:\users\julia\source\repos\MalteseNameGenerator\NameGeneratorUI\bin\Debug\NameGeneratorUI.exe.config
+c:\users\julia\source\repos\MalteseNameGenerator\NameGeneratorUI\bin\Debug\NameGeneratorUI.exe
+c:\users\julia\source\repos\MalteseNameGenerator\NameGeneratorUI\bin\Debug\NameGeneratorUI.pdb
+c:\users\julia\source\repos\MalteseNameGenerator\NameGeneratorUI\obj\Debug\NameGeneratorUI.csprojAssemblyReference.cache
+c:\users\julia\source\repos\MalteseNameGenerator\NameGeneratorUI\obj\Debug\NameGeneratorUI.Form1.resources
+c:\users\julia\source\repos\MalteseNameGenerator\NameGeneratorUI\obj\Debug\NameGeneratorUI.Properties.Resources.resources
+c:\users\julia\source\repos\MalteseNameGenerator\NameGeneratorUI\obj\Debug\NameGeneratorUI.csproj.GenerateResource.cache
+c:\users\julia\source\repos\MalteseNameGenerator\NameGeneratorUI\obj\Debug\NameGeneratorUI.csproj.CoreCompileInputs.cache
+c:\users\julia\source\repos\MalteseNameGenerator\NameGeneratorUI\obj\Debug\NameGeneratorUI.exe
+c:\users\julia\source\repos\MalteseNameGenerator\NameGeneratorUI\obj\Debug\NameGeneratorUI.pdb

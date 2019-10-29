@@ -1,0 +1,11 @@
+c:\users\julia\source\repos\MalteseNameGenerator\MalteseNameGenerator\bin\Debug\netcoreapp2.1\MalteseNameGenerator.deps.json
+c:\users\julia\source\repos\MalteseNameGenerator\MalteseNameGenerator\bin\Debug\netcoreapp2.1\MalteseNameGenerator.runtimeconfig.json
+c:\users\julia\source\repos\MalteseNameGenerator\MalteseNameGenerator\bin\Debug\netcoreapp2.1\MalteseNameGenerator.runtimeconfig.dev.json
+c:\users\julia\source\repos\MalteseNameGenerator\MalteseNameGenerator\bin\Debug\netcoreapp2.1\MalteseNameGenerator.dll
+c:\users\julia\source\repos\MalteseNameGenerator\MalteseNameGenerator\bin\Debug\netcoreapp2.1\MalteseNameGenerator.pdb
+c:\users\julia\source\repos\MalteseNameGenerator\MalteseNameGenerator\obj\Debug\netcoreapp2.1\MalteseNameGenerator.csprojAssemblyReference.cache
+c:\users\julia\source\repos\MalteseNameGenerator\MalteseNameGenerator\obj\Debug\netcoreapp2.1\MalteseNameGenerator.csproj.CoreCompileInputs.cache
+c:\users\julia\source\repos\MalteseNameGenerator\MalteseNameGenerator\obj\Debug\netcoreapp2.1\MalteseNameGenerator.AssemblyInfoInputs.cache
+c:\users\julia\source\repos\MalteseNameGenerator\MalteseNameGenerator\obj\Debug\netcoreapp2.1\MalteseNameGenerator.AssemblyInfo.cs
+c:\users\julia\source\repos\MalteseNameGenerator\MalteseNameGenerator\obj\Debug\netcoreapp2.1\MalteseNameGenerator.dll
+c:\users\julia\source\repos\MalteseNameGenerator\MalteseNameGenerator\obj\Debug\netcoreapp2.1\MalteseNameGenerator.pdb
